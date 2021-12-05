@@ -1,12 +1,14 @@
 const element = "p.text-animation";
 const prefix = "I work with ";
 const skills = [
-    "DevOps stuff",
-    "K8s",
+    "DevOps",
+    "Kubernetes",
+    "Podman",
+    "Docker",
     "GCP",
-    "Javascript",
-    "Ruby",
-    "Fancy new tech 💩",
+    "Golang",
+    "Github Actions",
+    "Fancy new tech shit",
     "❤️"
 
 ].map(s => `${s}.`);
