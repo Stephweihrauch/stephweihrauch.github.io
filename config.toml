@@ -1,0 +1,21 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Presentation"
+disableKinds = ["sitemap", "RSS"]
+theme = "reveal-hugo"
+
+[author]
+name = "Stephan Weihrauch"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+codeFences = true  # use highlight.js
+# codeFences = true  # use hugo highlighting at compile time
+style = "github"  # set a style for hugo highlighting
+
+[outputFormats.Reveal]
+baseName = "index"
+mediaType = "text/html"
+isHTML = true
