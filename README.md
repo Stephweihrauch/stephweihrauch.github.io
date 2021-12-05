@@ -11,5 +11,5 @@
 
 ## Screenshot
 
-![alt text](https://github.com/stephanweihrauch/stephanweihrauch.github.io/tree/main/images/Main_Page.jpg)
-![alt text](https://github.com/stephanweihrauch/stephanweihrauch.github.io/tree/main/images/About_Me.jpg)
+![](https://github.com/stephanweihrauch/stephanweihrauch.github.io/blob/main/images/About_Me.png)
+![](https://github.com/stephanweihrauch/stephanweihrauch.github.io/blob/main/images/Main_Page.png)
