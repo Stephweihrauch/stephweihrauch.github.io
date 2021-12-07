@@ -26,8 +26,6 @@ transition = "zoom"
 
 ### Podman
 
-{{< slide background-image="/images/podman/accenturedeck.PNG" background-opacity="0.1" transition="linear" transition-speed="fast">}}
-
 ## <font color=Tan> Contents </font>
 
 <font color=RoyalBlue>
@@ -48,8 +46,6 @@ transition = "zoom"
 
 ---
 
-{{< slide background-image="/images/podman/accenturelila.PNG" background-opacity="0.1">}}
-
 ## <font color=Tan> podman </font>
 
 <font color=RoyalBlue>
@@ -66,15 +62,11 @@ transition = "zoom"
 
 ---
 
-{{< slide background-image="/images/podman/accenture1.PNG" background-opacity="0.1" >}}
-
 ## <font color=Tan> Podman vs Docker </font>
 
 ![](/images/podman/dockervspodman.PNG)
 
 ---
-
-{{< slide background-image="/images/podman/accenture2.PNG" background-opacity="0.1" >}}
 
 ## <font color=Tan> What is a container runtime?​ </font>
 
@@ -93,11 +85,6 @@ transition = "zoom"
 </font>
 
 ---
-{{< slide background-image="/images/podman/accenture3.PNG" background-opacity="0.1" >}}
-
-# <font color=Tan> Advantages and disadvantages </font>
-
-{{% section %}}
 
 ## <font color=Tan> Advantages </font>
 
@@ -117,12 +104,7 @@ transition = "zoom"
 
 - Non-root users can face multiple difficulties in container networking and firewall policy settings.
 - Can only run containers in Linux (Podman only offers remote clients for MacOS and Windows).
-{{% /section %}}
 
 </font>
 
 ---
-
-{{< slide background-image="/images/podman/accenture5.PNG" background-opacity="0.2" >}}
-
-## <font color=Tan> Thanks </font>
