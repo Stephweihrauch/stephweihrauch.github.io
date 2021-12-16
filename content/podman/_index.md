@@ -52,8 +52,6 @@ transition = "zoom"
 
 - Podman is a container engine that‘s compatible with OCI(Open Container Initiative) containers specifications​
 
-- Podman is part of RedHat Linux, but can also be installed in other disturbutions​
-
 - Podman can be used as a drop-in replacement for the better-known Docker runtime. Most docker comands can be directly translated to podman comands​
 
 - [_How to Install and Use Podman on Ubuntu_](https://www.vultr.com/docs/how-to-install-and-use-podman-on-ubuntu-20-04/)
